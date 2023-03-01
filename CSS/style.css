@@ -26,7 +26,8 @@ div
 
 img
 {
-    border-radius: 50%;
+    border-radius: 38%;
+
 }
 
 #article2
@@ -73,5 +74,10 @@ footer
     margin-left: 70%;
     font-size: medium;
     color: rgb(27, 68, 55);
+}
+
+footer:hover
+{
+    color: rgb(1, 19, 1);
 }
   
